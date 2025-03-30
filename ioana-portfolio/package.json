@@ -1,6 +1,8 @@
 {
-  "name": "angular-portfolio",
-  "version": "0.0.0",
+  "name": "ioana-portfolio",
+  "version": "1.0",
+  "description": "Ioana-Portofolio",
+  "author": "Osan Ioana Paula",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
